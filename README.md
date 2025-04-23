@@ -1,7 +1,5 @@
 # CI/CD Pipeline in Python 🧺as🚀
 
-![CI](https://github.com/your-username/your-repo-name/actions/workflows/python-app.yml/badge.svg)
-
 This is a minimal Python project demonstrating continuous integration and deployment (CI/CD) using **GitHub Actions**. It includes automated testing with `pytest`, linting with `flake8`, and a placeholder for deployment.
 
 ---
